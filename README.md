@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahana Bhaskar
-
+- I'm currently learning Data Structures, Object Oriented Programming using Java and Web Development.
 - 📫 How to reach me sahanabhaskar09@gmail.com
 
 <!---
